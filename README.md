@@ -1,5 +1,5 @@
 # OutAndAbout
-## Goal: The goal of this project is to allow users to be able to list events in a particular city at a specific date and list all the garages that are available in that city. 
+## Goal: The goal of this project is to allow users to be able to list events in a particular city at a specific date and list all the garages that are available in that city and eventually reserve that specific event and garage. 
 ## Steps:
 ### 1. User inputs a city and a date to list all the events.
 ### 2. When all the events are listed, the user can add that event to his cart 
